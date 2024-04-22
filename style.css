@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #141414;
+    color:#fff;
+    font-size: 1.5em;
+}
+.container{
+    background-color:#484442;
+    border:8px;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-align: center;
+    max-width: 400px;
+}
+.btn {
+    display: flex; /* Use flexbox */
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center; /* Align items in the center horizontally */
+    margin-top: 20px; /* Add some margin for spacing */
+    
+  }
+  
+  .btn button {
+    margin-bottom: 10px; /* Add some spacing between buttons */
+    background-color: #696867;
+    border-radius: 6px;
+    width: 150px; /* Set a fixed width */
+    height: 40px; /* Set a fixed height */
+    color:#f0f0f0;
+    font-weight: bold;
+    }
+
+    .btn button:hover {
+        background-color: rgb(255, 255, 39); /* Change background color to yellow on hover */
+        color:#141414;
+      }
+
+img{
+    border-radius: 88px;
+    size:12px
+}
+h3{
+    color:rgb(255, 255, 39);
+    font-size: 14px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
