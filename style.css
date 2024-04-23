@@ -61,7 +61,7 @@ h4{
 
 @media only screen and (max-width: 600px) {
     img {
-      width: 100px; /* Set a different width for smaller screens */
-      height: 100px; /* Set a different height for smaller screens */
+      width: 150px; /* Set a different width for smaller screens */
+      height: 150px; /* Set a different height for smaller screens */
     }
   }
