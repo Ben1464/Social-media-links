@@ -17,7 +17,7 @@ body{
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-align: center;
-    max-width: 400px;
+    max-width: 250px;
 }
 .btn {
     display: flex; /* Use flexbox */
