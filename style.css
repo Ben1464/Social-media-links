@@ -73,3 +73,8 @@ h4{
       height: 150px; /* Set a different height for smaller screens */
     }
   }
+  .brand{
+    padding-top: 0;
+    font-size: 18px;
+    font-family: serif;
+  }
